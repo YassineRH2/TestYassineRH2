@@ -8,7 +8,7 @@
     'website': 'https://www.goole.com',
     'category': 'Tools',
     'depends': ['base'],
-    'license': 'APGL-3',
+    'license': 'AGPL-3',
     'data': ['Views/view.xml'],
     'demo': [],
     'installable': True,
