@@ -10,10 +10,10 @@
     'website': 'https://www.google.com',
     'depends': ['base'],
     'data': [
-        'Views/view.xml',
+        'views/view.xml',
     ],
     'images': [
-        'Pictures/image.jpg',
+        'pictures/image.jpg',
     ],
     'demo': [],
     'installable': True,
